@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="post-services" />
+        <module name="privateChat-services" />
+        <module name="message-services" />
+        <module name="user-auth" />
+        <module name="media-servives" />
+        <module name="user-services" />
+        <module name="user-friendzone" />
+        <module name="notificationwebSocket-services" />
+        <module name="eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="media-services" target="17" />
+      <module name="user-service" target="17" />
+      <module name="user-servicesTest" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

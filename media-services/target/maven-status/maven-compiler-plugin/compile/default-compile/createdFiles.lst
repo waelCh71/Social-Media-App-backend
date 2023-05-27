@@ -1,0 +1,17 @@
+com\example\mediaServices\config\ApplicationConfig.class
+com\example\mediaServices\config\SecurityConfig.class
+com\example\mediaServices\service\MediaTest.class
+com\example\mediaServices\config\JwtAuthenticationFilter.class
+com\example\mediaServices\config\FirebaseConfig.class
+com\example\mediaServices\models\TypeMedia.class
+com\example\mediaServices\Repository\TokenRepository.class
+com\example\mediaServices\models\Media.class
+com\example\mediaServices\models\Media$MediaBuilder.class
+com\example\mediaServices\config\JwtService.class
+com\example\mediaServices\Repository\UserRepository.class
+com\example\mediaServices\Repository\MediaRepository.class
+com\example\mediaServices\utils\Utils.class
+com\example\mediaServices\models\UserMedia.class
+com\example\mediaServices\controllers\MediaController.class
+com\example\mediaServices\service\MedServices.class
+com\example\mediaServices\MediaServices.class
